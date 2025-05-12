@@ -14,6 +14,7 @@
 - Frontend and Accessibility with TypeScript
 - Algorithms for Information Retrieval
 - Database Indexing and Storage Structures
+- Machine Learning (With python, pandas and more)
 
 ## 💻 GitHub Usage
 This GitHub profile is a collection of:
