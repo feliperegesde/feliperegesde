@@ -27,7 +27,7 @@ This GitHub profile is a collection of:
 - Anything that helps me grow as a developer!
 
 ## 📫 How to Reach Me
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com) *(add your real link here)* or open an issue on any of my repositories!
+Feel free to connect with me via [LinkedIn](https:://www.linkedin.com/in/felipe-albuquerque-66334b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andoird_app) *(add your real link here)* or open an issue on any of my repositories!
 
 ## ⚡ Fun Fact
 I love solving problems with code—even more when the solution helps someone else. I like to solve problemns with no-code or pseudocode, just to train my logic skills. I love make up some big projects alone, but i work soo much better with a team.
