@@ -28,9 +28,9 @@ This GitHub profile is a collection of:
 - Anything that helps me grow as a developer!
 
 ## 📫 How to Reach Me
-Feel free to connect with me via [LinkedIn]*(https:://www.linkedin.com/in/felipe-albuquerque-66334b280)* or open an issue on any of my repositories!
-My instagram is @feliperegesde
-My workemail is felipe08ra@alu.ufc.br or for social felipe08ra@gmail.com
+- Feel free to connect with me via [LinkedIn]*(https:://www.linkedin.com/in/felipe-albuquerque-66334b280)* or open an issue on any of my repositories!
+- My instagram is @feliperegesde
+- My workemail is felipe08ra@alu.ufc.br or for social felipe08ra@gmail.com
 
 ## ⚡ Fun Fact
 I love solving problems with code—even more when the solution helps someone else. I like to solve problemns with no-code or pseudocode, just to train my logic skills. I love make up some big projects alone, but i work soo much better with a team.
