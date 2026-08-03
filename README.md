@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Felipe+Reges;I'm+from+Fortaleza,+Brazil;Computer+Science+Student+@+UFC;Data,+AI/ML+&+Full-Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/felipe-reges/" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-albuquerque-66334b280" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:felipe08ra@gmail.com" target="_blank">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal do Ceará (UFC)**. Sou apaixonado por resolver problemas e tenho forte interesse e atuação voltados para **Data Science, Machine Learning, Inteligência Artificial e Automação**[cite: 1], além de sólida experiência prática em **Desenvolvimento Full-Stack**[cite: 1].
+Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal do Ceará (UFC)**[cite: 1]. Sou apaixonado por resolver problemas e tenho forte interesse e atuação voltados para **Data Science, Machine Learning, Inteligência Artificial e Automação**[cite: 1], além de sólida experiência prática em **Desenvolvimento Full-Stack**[cite: 1].
 
 - 🔬 Atualmente realizando pesquisa em **IoT, IA e Automação** no laboratório **GREat (UFC)**[cite: 1].
 - 💼 Passei por experiências marcantes como Summer Job em **IA e Dados** no **BTG Pactual**[cite: 1], além de atuar no desenvolvimento do projeto **LTAD (Lenovo)** no **LSBD**[cite: 1] e no jogo educativo **UFCode**[cite: 1].
