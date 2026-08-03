@@ -15,12 +15,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal do Ceará (UFC)**[cite: 1]. Sou apaixonado por resolver problemas e tenho forte interesse e atuação voltados para **Data Science, Machine Learning, Inteligência Artificial e Automação**[cite: 1], além de sólida experiência prática em **Desenvolvimento Full-Stack**[cite: 1].
+Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal do Ceará (UFC)**. Sou apaixonado por resolver problemas e tenho forte interesse e atuação voltados para **Data Science, Machine Learning, Inteligência Artificial e Automação**, além de sólida experiência prática em **Desenvolvimento Full-Stack**.
 
-- 🔬 Atualmente realizando pesquisa em **IoT, IA e Automação** no laboratório **GREat (UFC)**[cite: 1].
-- 💼 Passei por experiências marcantes como Summer Job em **IA e Dados** no **BTG Pactual**[cite: 1], além de atuar no desenvolvimento do projeto **LTAD (Lenovo)** no **LSBD**[cite: 1] e no jogo educativo **UFCode**[cite: 1].
-- 📜 Certificado em **Fundamentals of Deep Learning** pela **NVIDIA**[cite: 1].
-- 🗣️ Idiomas: Português (Nativo)[cite: 1], Inglês (Avançado)[cite: 1] e Mandarim (Básico / Instituto Confúcio)[cite: 1].
+- 🔬 Atualmente realizando pesquisa em **IoT, IA e Automação** no laboratório **GREat (UFC)**.
+- 💼 Passei por experiências marcantes como Summer Job em **IA e Dados** no **BTG Pactual**, além de atuar no desenvolvimento do projeto **LTAD (Lenovo)** no **LSBD** e no jogo educativo **UFCode**.
+- 📜 Certificado em **Fundamentals of Deep Learning** pela **NVIDIA**.
+- 🗣️ Idiomas: Português (Nativo), Inglês (Avançado) e Mandarim (Básico / Instituto Confúcio).
 
 ---
 
@@ -66,10 +66,10 @@ Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal 
 
 ### 💼 Principais Projetos e Experiências
 
-* **BTG Pactual (Summer Job - IA e Dados)**[cite: 1]: Desenvolvimento de modelos de IA e processamento de dados em larga escala com Pandas, criação de automações avançadas (Playwright + Agentes de IA / AWS) e soluções Full-Stack (FastAPI, TypeScript, PostgreSQL)[cite: 1].
-* **GREat - Pesquisa em IoT & IA**[cite: 1]: Pesquisa focada na utilização de IA, IoT e Automação para melhoria da qualidade de vida[cite: 1]. Utilização de Python, TensorFlow, Pandas, NumPy e integração com APIs de LLMs[cite: 1].
-* **LSBD - Projeto LTAD (Lenovo ThinkSmart Hubs)**[cite: 1]: Atuação Full-Stack (C++, TypeScript, CSS) na manutenção e segurança de softwares de reuniões[cite: 1].
-* **GREat - UFCode**[cite: 1]: Manutenção e desenvolvimento de novas funcionalidades usando React e Node.js para um jogo voltado ao ensino gamificado de programação[cite: 1].
+* **BTG Pactual (Summer Job - IA e Dados)**: Desenvolvimento de modelos de IA e processamento de dados em larga escala com Pandas, criação de automações avançadas (Playwright + Agentes de IA / AWS) e soluções Full-Stack (FastAPI, TypeScript, PostgreSQL).
+* **GREat - Pesquisa em IoT & IA**: Pesquisa focada na utilização de IA, IoT e Automação para melhoria da qualidade de vida. Utilização de Python, TensorFlow, Pandas, NumPy e integração com APIs de LLMs.
+* **LSBD - Projeto LTAD (Lenovo ThinkSmart Hubs)**: Atuação Full-Stack (C++, TypeScript, CSS) na manutenção e segurança de softwares de reuniões.
+* **GREat - UFCode**: Manutenção e desenvolvimento de novas funcionalidades usando React e Node.js para um jogo voltado ao ensino gamificado de programação.
 
 ---
 
