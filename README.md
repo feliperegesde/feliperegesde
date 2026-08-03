@@ -74,6 +74,7 @@ Olá! Sou graduando em **Ciência da Computação** pela **Universidade Federal 
 ---
 
 ### 📚 Atualmente Estudando e Aprimorando
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-NVIDIA-green?style=for-the-badge)&nbsp;
 ![LLMs & Generative AI](https://img.shields.io/badge/LLMs_%26_GenAI-Robot-blue?style=for-the-badge)&nbsp;
 ![Mandarin](https://img.shields.io/badge/Mandarim-HSK-red?style=for-the-badge)&nbsp;
